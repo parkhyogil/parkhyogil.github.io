@@ -23,7 +23,7 @@ timezone: Asia/Seoul
 
 title: Hyogil                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: 개발 공부   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
@@ -100,9 +100,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: parkhyogil/parkhyogil.github.io            # <gh-username>/<repo>
-    repo_id:
-    category: General
-    category_id:
+    repo_id: R_kgDOHCZCwQ
+    category: Announcements
+    category_id: DIC_kwDOHCZCwc4COMyl
     mapping:          # optional, default to 'pathname'
     input_position:   # optional, default to 'bottom'
     lang:             # optional, default to the value of `site.lang`
